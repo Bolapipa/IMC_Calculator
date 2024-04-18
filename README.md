@@ -1,4 +1,4 @@
-# IMC_Calculator
+# IMC_Calculator :heart:
  Minha Primeira Calculadora IMC
 
  Fiz esse pequeno projeto assistindo um vídeo para me auxiliar nas dúvidas.
